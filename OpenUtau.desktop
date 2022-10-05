@@ -2,7 +2,7 @@
 Encoding=UTF-8 
 Version=0.0.951
 Type=Application 
-Exec=/home/$USER/.local/lib/OpenUtau/OpenUtau
+Exec=/home/user/.local/lib/OpenUtau/OpenUtau
 Name=OpenUtau 
 Icon=openutau
 Categories=AudioVideo;Audio;Midi;Multimedia;
