@@ -1,8 +1,8 @@
 [Desktop Entry]
 Encoding=UTF-8 
-Version=0.0.951
+Version=idfk
 Type=Application 
-Exec=/home/user/.local/lib/OpenUtau/OpenUtau
+Exec=/home/emu/.local/lib/OpenUtau/OpenUtau
 Name=OpenUtau 
 Icon=openutau
 Categories=AudioVideo;Audio;Midi;Multimedia;
